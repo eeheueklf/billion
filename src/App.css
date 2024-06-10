@@ -1,0 +1,27 @@
+@font-face {
+  font-family: 'SsangMun';
+  src: url("fonts/Typo_SsangmundongGulimB.ttf");
+}
+@font-face {
+  font-family: 'NanumSquare';
+  src: url("fonts/NanumSquareR.ttf");
+}
+@font-face {
+  font-family: 'KBO-Dia-Gothic';
+  src: url("fonts/KBO Dia Gothic_light.ttf");
+}
+
+* {
+  font-family: KBO-Dia-Gothic, sans-serif;
+
+}
+
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: silver;
+  border-radius: 10px;
+}
