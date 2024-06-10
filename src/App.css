@@ -1,7 +1,4 @@
-@font-face {
-  font-family: 'SsangMun';
-  src: url("fonts/Typo_SsangmundongGulimB.ttf");
-}
+
 @font-face {
   font-family: 'NanumSquare';
   src: url("fonts/NanumSquareR.ttf");
@@ -21,7 +18,3 @@
   height: 8px;
 }
 
-::-webkit-scrollbar-thumb {
-  background-color: silver;
-  border-radius: 10px;
-}

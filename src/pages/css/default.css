@@ -1,0 +1,23 @@
+
+
+body {
+    background-color: white;
+}
+
+.main_view {
+    
+    position: absolute;
+    width : 100vw;
+    height : 80vh;
+    top: 20vh;
+}
+
+
+
+.center {
+    background-color: black;
+    width : 80vw;
+    margin: 0 auto;
+}
+  
+  
